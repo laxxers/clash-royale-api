@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.3.5",
-    "bookshelf": "^0.10.3",
+    "bookshelf": "^0.13.2",
     "express": "^4.13.4",
     "knex": "^0.13.0",
     "lodash": "^4.11.1",
