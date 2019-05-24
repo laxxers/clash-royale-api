@@ -9,7 +9,7 @@
   "author": "Chong Zhi Rui",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.3.5",
+    "bluebird": "^3.5.5",
     "bookshelf": "^0.10.3",
     "express": "^4.13.4",
     "knex": "^0.13.0",
